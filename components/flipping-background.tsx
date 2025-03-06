@@ -17,6 +17,8 @@ export function FlippingBackground({ userImage }: FlippingBackgroundProps) {
       "/thaonp1.jpg",
       "/trath.png",
       "/anhnlh.jpg",
+      "/ngacth.png",
+      "/yennh1.jpg",
     ]
 
     // if (userImage) {
