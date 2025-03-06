@@ -77,9 +77,9 @@ export function WishCard({ user }: WishCardProps) {
           </div>
 
           <div>
-            <h2 className="text-xl text-pink-800 font-bold">
-              Chúc mừng EM's DAY 08/03, {user?.name?.split(" ")[0] || "Friend"}!
-            </h2>
+            <h1 className="text-xl text-pink-800 font-bold">
+              Powered by Men Team B
+            </h1>
             <div className="flex items-center mt-4 max-h-fit min-h-32">
               <p
                 className={cn(
